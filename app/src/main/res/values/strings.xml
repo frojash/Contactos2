@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="app_name">Contactos2</string>
+    <string name="app_name">Tarea Contactos</string>
     <string name="nombre">Nombre Completo</string>
     <string name="telefono">Teléfono</string>
     <string name="fecha">Fecha Nacimiento</string>
