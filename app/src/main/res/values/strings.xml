@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Contactos2</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="fecha">Fecha Nacimiento</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="suspensivos">...</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="editar">Editar Datos</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pfecha">fecha</string>
+    <string name="pdescrpcion">descripcion</string>
+    <string name="confirmar">Confirmar Datos</string>
+</resources>
